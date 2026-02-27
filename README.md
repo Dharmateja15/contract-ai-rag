@@ -195,8 +195,8 @@ It focuses on:
 ## 👥 Team
 
 Code Alchemists:
-Dharma Teja Yelpucherla
-Varchaswi Datta Araveti
-Narasapuram Surekha
-Munagala Venkata Naga Sunayana
-Hackathon Project – 2026
+Dharma Teja Yelpucherla  
+Varchaswi Datta Araveti  
+Narasapuram Surekha  
+Munagala Venkata Naga Sunayana  
+Hackathon Project – 2026  
