@@ -1,0 +1,10 @@
+streamlit
+plotly
+pdfplumber
+faiss-cpu
+sentence-transformers
+numpy
+groq
+huggingface-hub
+scikit-learn
+torch
