@@ -152,7 +152,7 @@ contract-ai-rag/
 ## ⚙️ Installation
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/contract-ai-rag.git
+git clone https://github.com/Dharmateja15/contract-ai-rag
 
 cd contract-ai-rag
 
@@ -194,5 +194,9 @@ It focuses on:
 
 ## 👥 Team
 
-
+Code Alchemists:
+Dharma Teja Yelpucherla
+Varchaswi Datta Araveti
+Narasapuram Surekha
+Munagala Venkata Naga Sunayana
 Hackathon Project – 2026
